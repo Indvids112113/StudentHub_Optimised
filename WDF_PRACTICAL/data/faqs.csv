@@ -1,0 +1,9 @@
+id,name,status,course,year
+25DCS001,Alice Smith,Active,BTech CSE,1
+24DCS022,Bob Johnson,Pending,BTech CSE,2
+25DIT014,Charlie Davis,Active,BTech IT,1
+24DIT045,Diana Prince,Suspended,BTech IT,2
+25DCE009,Evan Wright,Active,BTech CE,1
+24DCE033,Fiona Gallagher,Pending,BTech CE,2
+25DCS077,George Miller,Active,BTech CSE,1
+24DCS088,Hannah Baker,Active,BTech CSE,2

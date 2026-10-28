@@ -1,0 +1,9 @@
+id,name,email,password,status,course,year
+25DCS001,Alice Smith,alice@studenthub.edu,password123,Active,BTech CSE,1
+24DCS022,Bob Johnson,bob@studenthub.edu,password123,Pending,BTech CSE,2
+25DIT014,Charlie Davis,charlie@studenthub.edu,password123,Active,BTech IT,1
+24DIT045,Diana Prince,diana@studenthub.edu,password123,Suspended,BTech IT,2
+25DCE009,Evan Wright,evan@studenthub.edu,password123,Active,BTech CE,1
+24DCE033,Fiona Gallagher,fiona@studenthub.edu,password123,Pending,BTech CE,2
+24DCS142,Vidhan Hardik,vidhan@studenthub.edu,password123,Active,BTech CSE,222DCS164,"Vrisav Luhar",22dcs164@studenthud.edu.com,Vrisav@1234,Pending,"BTech CSE",4
+22DCS164,"Vrisav Luhar",22dcs164@studenthud.edu.com,Vrisav@1234,Pending,"BTech CSE",4
